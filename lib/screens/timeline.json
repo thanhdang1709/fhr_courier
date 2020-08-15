@@ -1,0 +1,113 @@
+{
+	"code": 200,
+	"message": "success",
+	"data": [
+		{
+			"2020-08-04": [
+				{
+					"13:10:20": {
+						"from_datetime": "2020-08-04 13:10:20",
+						"to_datetime": "2020-08-06 13:10:20",
+						"city_name": "Cần Thơ",
+						"district_name": "Ô Môn",
+						"location": "Ma Cau",
+						"activities": "bbbb",
+						"related_persons": "dđ"
+					}
+				},
+				{
+					"13:12:20": {
+						"from_datetime": "2020-08-04 13:10:20",
+						"to_datetime": "2020-08-06 13:10:20",
+						"city_name": "Cần Thơ",
+						"district_name": "Ô Môn",
+						"location": "Ma Cau",
+						"activities": "bbbb",
+						"related_persons": "dđ"
+					}
+				},
+				{
+					"13:12:20": {
+						"from_datetime": "2020-08-04 13:10:20",
+						"to_datetime": "2020-08-06 13:10:20",
+						"city_name": "Cần Thơ",
+						"district_name": "Ô Môn",
+						"location": "Ma Cau",
+						"activities": "bbbb",
+						"related_persons": "dđ"
+					}
+				},
+				{
+					"13:12:20": {
+						"from_datetime": "2020-08-04 13:10:20",
+						"to_datetime": "2020-08-06 13:10:20",
+						"city_name": "Cần Thơ",
+						"district_name": "Ô Môn",
+						"location": "Ma Cau",
+						"activities": "bbbb",
+						"related_persons": "dđ"
+					}
+				},
+				{
+					"13:12:20": {
+						"from_datetime": "2020-08-04 13:10:20",
+						"to_datetime": "2020-08-06 13:10:20",
+						"city_name": "Cần Thơ",
+						"district_name": "Ô Môn",
+						"location": "Ma Cau",
+						"activities": "bbbb",
+						"related_persons": "dđ"
+					}
+				},
+				{
+					"13:12:20": {
+						"from_datetime": "2020-08-04 13:10:20",
+						"to_datetime": "2020-08-06 13:10:20",
+						"city_name": "Cần Thơ",
+						"district_name": "Ô Môn",
+						"location": "Ma Cau",
+						"activities": "bbbb",
+						"related_persons": "dđ"
+					}
+				},
+				{
+					"13:12:20": {
+						"from_datetime": "2020-08-04 13:10:20",
+						"to_datetime": "2020-08-06 13:10:20",
+						"city_name": "Cần Thơ",
+						"district_name": "Ô Môn",
+						"location": "Ma Cau",
+						"activities": "bbbb",
+						"related_persons": "dđ"
+					}
+				},
+				{
+					"13:12:20": {
+						"from_datetime": "2020-08-04 13:10:20",
+						"to_datetime": "2020-08-06 13:10:20",
+						"city_name": "Cần Thơ",
+						"district_name": "Ô Môn",
+						"location": "Ma Cau",
+						"activities": "bbbb",
+						"related_persons": "dđ"
+					}
+				}
+			]
+		},
+		{
+			"2020-08-05": [
+				{
+					"13:10:20": {
+						"from_datetime": "2020-08-04 13:10:20",
+						"to_datetime": "2020-08-06 13:10:20",
+						"city_name": "Cần Thơ",
+						"district_name": "Ô Môn",
+						"location": "Ma Cau",
+						"activities": "bbbb",
+						"related_persons": "dđ"
+					}
+				}
+			]
+		}
+	]
+}
